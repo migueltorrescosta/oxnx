@@ -9,7 +9,7 @@ To have template solutions of all questions in the lecture notes, so that having
 1. Downloading the files in this repo and open them .
 
 # Accessing the jupyter notebooks
-1. Install Python3 and jupyter in your laptop: http://jupyter.org/install .
+1. Install Python3 and [jupyter](http://jupyter.org/install) in your laptop.
 2. Download this repository.
 3. Run an instance of Jupyter and open the notebooks.
 4. Play around.
