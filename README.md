@@ -1,8 +1,5 @@
 # oxnx
-Student written template solutions for the C5.4 Networks course.
-
-# Goal
-To have template solutions of all questions in the lecture notes, so that having not worked with Python before does not slow down your learning curve. After all, the course is about Netowrks and not Python :)	
+Our goal is to write template solutions of all questions in the C5.4 Networks lecture notes, so that having not worked with Python before does not slow down your learning curve. After all, the course is about Networks and not Python :)	
 
 # Accessing the pdf files
 
