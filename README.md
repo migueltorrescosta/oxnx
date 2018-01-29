@@ -2,7 +2,7 @@
 Student written template solutions for the C5.4 Networks course.
 
 # Goal
-To have template solutions of all questions in the lecture notes, so that having not worked with Python before does not slow down your learning curve for the theory.		
+To have template solutions of all questions in the lecture notes, so that having not worked with Python before does not slow down your learning curve. After all, the course is about Netowrks and not Python :)	
 
 # Accessing the pdf files
 
@@ -28,4 +28,4 @@ The usual approach to coding is: Write whatever code solves the problem, no matt
 8. Make a merge request from your branch to the master branch
 
 # Feedback
-If there is anything that is not clearly explained you want help setting the above feel free to contact me on miguel.torres@worc.ox.ac.uk .
+If there is anything that is not clearly explained or if you want assistance while setting the above feel free to contact me on miguel.torres@worc.ox.ac.uk .
